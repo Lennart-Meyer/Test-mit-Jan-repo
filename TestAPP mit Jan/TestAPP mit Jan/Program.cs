@@ -10,8 +10,11 @@ namespace TestAPP_mit_Jan
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hallo Jan noch motiviert?");
-            Console.WriteLine("kleine Änderung");
+            
+            Console.WriteLine("Hallo Jan noch motiviert?"); // nein
+            Console.WriteLine("kleine Änderung"); //warum keine große ?
+            Console.WriteLine("Pünktlich sein zu thermodynamik");
+
 
             Console.ReadKey();
         }
