@@ -14,6 +14,7 @@ namespace TestAPP_mit_Jan
             Console.WriteLine("Hallo Jan noch motiviert?"); // nein
             Console.WriteLine("kleine Änderung"); //warum keine große ?
             Console.WriteLine("Pünktlich sein zu thermodynamik");
+            Console.WriteLine("ok mach ich");
 
 
             Console.ReadKey();
