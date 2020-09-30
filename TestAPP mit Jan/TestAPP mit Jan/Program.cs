@@ -11,6 +11,7 @@ namespace TestAPP_mit_Jan
         static void Main(string[] args)
         {
             Console.WriteLine("Hallo Jan noch motiviert?");
+            Console.WriteLine("kleine Änderung");
 
             Console.ReadKey();
         }
